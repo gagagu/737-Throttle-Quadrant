@@ -1,6 +1,6 @@
 # 737-Throttle-Quadrant
 
-This ist the Hardware for the 737 Throttle Quadrant from Thingiverse.
+This ist the Hardware for the 737 Throttle Quadrant from Thingiverse using with Mobiflight
 [here](https://www.thingiverse.com/thing:3074856)
 
 This project ist still in Development and not finished! All posted Parts are atm. not tested!
